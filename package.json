@@ -1,0 +1,17 @@
+{
+  "name": "uwill-qa-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "playwright.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.0.14"
+  }
+}
